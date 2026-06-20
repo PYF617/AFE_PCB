@@ -1,0 +1,24 @@
+Change Component Parameter Library Reference in CN1 Old=CMP-066-000000-1 New=CMP-066-000000-2
+Change Component Parameter Library Reference in CN2 Old=CMP-066-000000-1 New=CMP-066-000000-2
+Added Parameter Case/Package= to Part CN1
+Added Parameter Case/Package= to Part CN2
+Added Parameter Connector Type= to Part CN1
+Added Parameter Connector Type= to Part CN2
+Added Parameter Gender= to Part CN1
+Added Parameter Gender= to Part CN2
+Added Parameter Max Current Rating= to Part CN1
+Added Parameter Max Current Rating= to Part CN2
+Added Parameter Max Operating Temperature= to Part CN1
+Added Parameter Max Operating Temperature= to Part CN2
+Added Parameter Min Operating Temperature= to Part CN1
+Added Parameter Min Operating Temperature= to Part CN2
+Added Parameter Mounting Technology= to Part CN1
+Added Parameter Mounting Technology= to Part CN2
+Added Parameter Pins= to Part CN1
+Added Parameter Pins= to Part CN2
+Added Parameter RoHS Compliant= to Part CN1
+Added Parameter RoHS Compliant= to Part CN2
+Added Parameter Voltage Rating= to Part CN1
+Added Parameter Voltage Rating= to Part CN2
+Replace Symbol from CN1 SSW-135-02-G-D in C:\Users\fongp\iCloudDrive\Desktop\MSc ADIC\Project\AFE_PCB\AFE Shield.SchDoc with SSW-135-02-G-D from James' Workspace
+Replace Symbol from CN2 SSW-135-02-G-D in C:\Users\fongp\iCloudDrive\Desktop\MSc ADIC\Project\AFE_PCB\AFE Shield.SchDoc with SSW-135-02-G-D from James' Workspace

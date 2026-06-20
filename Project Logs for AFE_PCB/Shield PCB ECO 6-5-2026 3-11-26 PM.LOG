@@ -1,0 +1,29 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=CMP-031-000000-1 New DesignItemId=CMP-031-000000-2
+Change Component Footprint: Designator=U1 Old Footprint=IC_TPS7A5201RPSR New Footprint=IC_TPS7A5201RPSR
+Change Component Description : Designator=U1 Old Description= New Description=LDO
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=07F309D2-B104-46CC-9DA7-E168861FB3BD New ItemGUID=07F309D2-B104-46CC-9DA7-E168861FB3BD Old RevisionGUID=DD71BC4E-62F6-4627-8162-D2E8B2611D6F New RevisionGUID=ea31b569-6d4d-4724-b168-64bde6ffd1df
+Change component parameters: Designator = "U1" ("U1"); Footprint = "IC_TPS7A5201RPSR"; UniqueID = "\JUKQRZMK" ("\JUKQRZMK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "TPS7A5201RPSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TPS7A5201RPSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "TPS7A5201RPSR.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

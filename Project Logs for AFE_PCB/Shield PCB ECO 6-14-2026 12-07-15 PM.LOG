@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=SW_5V Pin=C17-1
+Removed Pin From Net: NetName=VDD Pin=C17-2
+Removed Pin From Net: NetName=SW_5V Pin=C18-1
+Removed Pin From Net: NetName=VDD Pin=C18-2
+Change Component Footprint: Designator=C17 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C18 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Comment : Designator=C17 Old Comment=CL21A105KBCLNNC New Comment=C0805C104K6RACTU
+Change Component Comment : Designator=C18 Old Comment=CL21A105KBCLNNC New Comment=C0805C104K6RACTU
+Change Managed Component Library Link : Designator=C17 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=6ADB4F9A-38DB-4F33-AF3D-7D825D45412D New ItemGUID=1AD4DED3-0B77-4FE7-8E91-903D0CD529C8 Old RevisionGUID=CEC52D3A-9027-485A-9223-13774327B529 New RevisionGUID=88807A54-885B-4182-A4B5-10E991819EAF
+Change Managed Component Library Link : Designator=C18 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=6ADB4F9A-38DB-4F33-AF3D-7D825D45412D New ItemGUID=1AD4DED3-0B77-4FE7-8E91-903D0CD529C8 Old RevisionGUID=CEC52D3A-9027-485A-9223-13774327B529 New RevisionGUID=88807A54-885B-4182-A4B5-10E991819EAF
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAPC2012X95N"; UniqueID = "\DBSLCCMY" ("\DBSLCCMY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "C0805C104K6RACTU.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC2012X95N"; UniqueID = "\WCTCKLJZ" ("\WCTCKLJZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "C0805C104K6RACTU.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=C17-1
+Added Pin To Net: NetName=SW_5V Pin=C17-2
+Added Pin To Net: NetName=VDD Pin=C18-1
+Added Pin To Net: NetName=SW_5V Pin=C18-2

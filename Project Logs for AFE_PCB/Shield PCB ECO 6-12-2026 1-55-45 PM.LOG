@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=AFE Shield Member=TP8
+Removed Member From Class: ClassName=AFE Shield Member=TP9
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP7
+Added Pin To Net: NetName=GND Pin=B1-49
+Added Pin To Net: NetName=GND Pin=B4-49

@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=AFE Shield Member=B5
+Removed Member From Class: ClassName=AFE Shield Member=B6
+Removed Member From Class: ClassName=Power Supply Member=U4
+Change Net Name : Old Net Name=NetB3_2 New Net Name=NetB1_2
+Change Net Name : Old Net Name=NetB4_6 New Net Name=NetB2_6
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR6_2
+Added Member To Class: ClassName=AFE Shield Member=Component B1 FOD050L
+Added Member To Class: ClassName=AFE Shield Member=Component B2 FOD050L
+Added Member To Class: ClassName=Input Protection Member=Component R5 RC0805FR-0710ML
+Added Member To Class: ClassName=Power Supply Member=Component U3 WRME-FIMM_1769205132

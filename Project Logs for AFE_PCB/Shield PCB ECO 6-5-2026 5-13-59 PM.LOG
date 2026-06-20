@@ -1,0 +1,29 @@
+Change Component DesignItemId : Designator=C16 Old DesignItemId=CMP-001-00088-1 New DesignItemId=CMP-001-00088-2
+Change Component Footprint: Designator=C16 Old Footprint=CAPC3216X120N New Footprint=CAPC3216X120N
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=382A5A51-7886-419D-865F-E5BD979CED2C New ItemGUID=382A5A51-7886-419D-865F-E5BD979CED2C Old RevisionGUID=1D798FEA-39C2-495F-828F-17202DD1CB6F New RevisionGUID=22457740-a13d-4389-92e1-dc8d55248bb7
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC3216X120N"; UniqueID = "\GDSCBWPA" ("\GDSCBWPA")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.rubycon.co.jp/wp-content/uploads/catalog-pmlcap/MF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "25MF105KA13216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "25MF105KA13216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "25MF105KA13216.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Input Protection Member=Component C10 C0805C104K6RACTU
+Added Member To Class: ClassName=Input Protection Member=Component C11 C0805C104K6RACTU
+Added Member To Class: ClassName=Input Protection Member=Component C13 C0805C104K6RACTU
+Added Member To Class: ClassName=Input Protection Member=Component C14 C0805C104K6RACTU
+Added Member To Class: ClassName=Input Protection Member=Component C15 C1210C106K5PACTU

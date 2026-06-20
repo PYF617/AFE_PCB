@@ -1,0 +1,29 @@
+Added Component: Designator=C17(CAPC2012X95N)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD-2 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CL21A105KBCLNNC/Samsung/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CL21A105KBCLNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21A105KBCLNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL21A105KBCLNNC/Samsung/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CL21A105KBCLNNC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC2012X95N)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD-2 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CL21A105KBCLNNC/Samsung/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CL21A105KBCLNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21A105KBCLNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL21A105KBCLNNC/Samsung/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CL21A105KBCLNNC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW_5V Pin=C17-1
+Added Pin To Net: NetName=VDD Pin=C17-2
+Added Pin To Net: NetName=SW_5V Pin=C18-1
+Added Pin To Net: NetName=VDD Pin=C18-2
+Added Member To Class: ClassName=Input Protection Member=Component C16 25MF105KA13216
+Added Member To Class: ClassName=AFE Chip Member=Component C17 CL21A105KBCLNNC
+Added Member To Class: ClassName=AFE Chip Member=Component C18 CL21A105KBCLNNC

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=IC1-57
+Removed Pin From Net: NetName=DAC_OUT Pin=TP7-1
+Added Pin To Net: NetName=ELEC_TEST Pin=TP7-1

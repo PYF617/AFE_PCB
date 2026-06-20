@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Input Protection Member=C9
+Removed Member From Class: ClassName=AFE Chip Member=C15
+Removed Member From Class: ClassName=AFE Chip Member=C17
+Removed Member From Class: ClassName=Power Supply Member=C17
+Removed Member From Class: ClassName=AFE Shield Member=J3
+Removed Member From Class: ClassName=AFE Shield Member=J4
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ3_2
+Added Member To Class: ClassName=Input Protection Member=Component C1 C1210C106K5PACTU
+Added Member To Class: ClassName=Input Protection Member=Component C2 C1210C106K5PACTU
+Added Member To Class: ClassName=Power Supply Member=Component C3 CL32B476KPJNNWE
+Added Member To Class: ClassName=AFE Chip Member=Component C10 C0805C103J5RACTU
+Added Member To Class: ClassName=AFE Chip Member=Component C11 C0805C104K6RACTU
+Added Member To Class: ClassName=Input Protection Member=Component C13 25MF105KA13216
+Added Member To Class: ClassName=Input Protection Member=Component C14 C0805C104K6RACTU
+Added Member To Class: ClassName=Input Protection Member=Component C16 C0805C104K6RACTU
+Added Member To Class: ClassName=AFE Shield Member=Component J1 2466267-1
+Added Member To Class: ClassName=AFE Shield Member=Component J2 2466267-1
+Added Member To Class: ClassName=AFE Shield Member=Component TP1 5277
+Added Member To Class: ClassName=AFE Shield Member=Component TP2 5277
+Added Member To Class: ClassName=AFE Shield Member=Component TP6 5277

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C13 Old Footprint=CAPC3216X120N New Footprint=CAPC7361X470N
+Change Component Comment : Designator=C13 Old Comment=25MF105KA13216 New Comment=CB057D0105JBC
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=382A5A51-7886-419D-865F-E5BD979CED2C New ItemGUID=8E1216D5-0BF9-4068-83B0-62C79D8E96A8 Old RevisionGUID=22457740-a13d-4389-92e1-dc8d55248bb7 New RevisionGUID=267197A7-5DF3-47A9-AC8F-4968A44DC518
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC3216X120N"; UniqueID = "\UWILWWFD" ("\UWILWWFD")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.kyocera-avx.com/cb-pen.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "CB057D0105JBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Farnell Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Farnell Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CB057D0105JBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CB057D0105JBC.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"

@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=E1 Old DesignItemId=CMP-006-00023-1 New DesignItemId=CMP-006-00023-2
+Change Component Footprint: Designator=E1 Old Footprint=BEADC2012X110N New Footprint=BEADC2012X110N
+Change Managed Component Library Link : Designator=E1 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=7D943C0F-93C9-4596-9548-9A124AFDE72B New ItemGUID=7D943C0F-93C9-4596-9548-9A124AFDE72B Old RevisionGUID=73AEF16E-A538-4990-9D79-4C5D89E2C550 New RevisionGUID=bbafe17a-3fe8-430f-b17c-621f6e07ff96
+Change component parameters: Designator = "E1" ("E1"); Footprint = "BEADC2012X110N"; UniqueID = "\GTCAORRI" ("\GTCAORRI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-2176744-2/TE/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "2-2176744-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2-2176744-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-2176744-2/TE/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "2-2176744-2.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

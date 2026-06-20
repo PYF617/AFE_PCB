@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetB4_4 Pin=R3-2
+Removed Pin From Net: NetName=VREF Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Member From Class: ClassName=Input Protection Member=R3
+Removed Member From Class: ClassName=Input Protection Member=R4
+Change Component DesignItemId : Designator=B1 Old DesignItemId=CMP-011-00013-1 New DesignItemId=CMP-011-00013-2
+Change Component Footprint: Designator=B1 Old Footprint=QFN50P700X700X80-49N New Footprint=QFN50P700X700X80-49N
+Change Managed Component Library Link : Designator=B1 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=90BCEC16-4563-4985-AA2D-E06F9E6610EC New ItemGUID=90BCEC16-4563-4985-AA2D-E06F9E6610EC Old RevisionGUID=D0EE0432-0390-4938-A264-8FC6D679C01A New RevisionGUID=61b61f92-e154-4453-b081-213ef7258bb9
+Change component parameters: Designator = "B1" ("B1"); Footprint = "QFN50P700X700X80-49N"; UniqueID = "\TAEYLDQE" ("\TAEYLDQE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max14866utm/analog-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/256/MAX14866-1154497.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX14866UTM%2b?qs=1mbolxNpo8f6nC88ZZmOdg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MAX14866UTM+.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB4_4 Pin=J2-1

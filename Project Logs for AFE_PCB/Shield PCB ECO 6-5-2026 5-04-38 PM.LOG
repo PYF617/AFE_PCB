@@ -1,0 +1,267 @@
+Removed Pin From Net: NetName=VDD Pin=B4-1
+Removed Pin From Net: NetName=GND Pin=B4-2
+Removed Pin From Net: NetName=VREF Pin=B4-5
+Removed Pin From Net: NetName=REF_BLANK_N Pin=B4-8
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Member From Class: ClassName=Input Protection Member=D2
+Change Component Footprint: Designator=B4 Old Footprint=SON65P300X300X80-9N New Footprint=QFN50P700X700X80-49N
+Change Component Footprint: Designator=U2 Old Footprint=WRME-FIMM_1769205132 New Footprint=WRME-FIMM_1769205132
+Change Component Comment : Designator=B4 Old Comment=MAX14759ETA+T New Comment=MAX14866UTM+
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=AB426528-3ECF-466D-BF99-D5E3BA6A3342 New ItemGUID=AB426528-3ECF-466D-BF99-D5E3BA6A3342 Old RevisionGUID=BFA64B26-CFD6-42D0-819C-D122F7D540C9 New RevisionGUID=af657b80-1eeb-4dd6-951f-850e9c8f5ac3
+Change Managed Component Library Link : Designator=B4 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=674BB3DA-09F8-48F3-A7AA-755957BBC72B New ItemGUID=90BCEC16-4563-4985-AA2D-E06F9E6610EC Old RevisionGUID=72BD2A4C-0E5D-44FC-B3D3-D84B761D1D38 New RevisionGUID=61b61f92-e154-4453-b081-213ef7258bb9
+Change component parameters: Designator = "U2" ("U2"); Footprint = "WRME-FIMM_1769205132"; UniqueID = "\JTTVRYMT" ("\JTTVRYMT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1769205132/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "WRME-FIMM_1769205132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1769205132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1769205132/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "WRME-FIMM_1769205132.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "B4" ("B4"); Footprint = "SON65P300X300X80-9N"; UniqueID = "\MVXROGWT" ("\MVXROGWT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max14866utm/analog-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/256/MAX14866-1154497.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX14866UTM+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX14866UTM%2b?qs=1mbolxNpo8f6nC88ZZmOdg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MAX14866UTM+.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC2012X88N)
+Add component (AddParameter): Name = "Case/Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C104K6RACTU.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC2012X88N)
+Add component (AddParameter): Name = "Case/Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C104K6RACTU.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC3216X120N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.rubycon.co.jp/wp-content/uploads/catalog-pmlcap/MF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "25MF105KA13216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "25MF105KA13216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "25MF105KA13216.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012X60N)
+Add component (AddParameter): Name = "Case/Package"; Value = "2012 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0805FR-0710ML/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0710ML/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805FR-0710ML.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10M"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012X60N)
+Add component (AddParameter): Name = "Case/Package"; Value = "2012 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0805FR-0710ML/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0710ML/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805FR-0710ML.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10M"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X55N)
+Add component (AddParameter): Name = "Case/Package"; Value = "2012 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCU08050C1000FP500/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MCU08050C1000FP500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCU08050C1000FP500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCU08050C1000FP500/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "MCU08050C1000FP500.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012X60N)
+Add component (AddParameter): Name = "Case/Package"; Value = "2012 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0805FR-0710ML/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0710ML/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805FR-0710ML.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10M"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/OPA365AQDBVRQ1/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "OPA365AQDBVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "OPA365AQDBVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OPA365AQDBVRQ1/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "OPA365AQDBVRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(WRME-FIMM_1769205132)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1769205132/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "WRME-FIMM_1769205132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1769205132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1769205132/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WRME-FIMM_1769205132.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VREF Pin=B4-2
+Added Pin To Net: NetName=VREF Pin=B4-4
+Added Pin To Net: NetName=VREF Pin=B4-6
+Added Pin To Net: NetName=VREF Pin=B4-8
+Added Pin To Net: NetName=GND Pin=B4-9
+Added Pin To Net: NetName=GND Pin=B4-10
+Added Pin To Net: NetName=VREF Pin=B4-12
+Added Pin To Net: NetName=VREF Pin=B4-14
+Added Pin To Net: NetName=VREF Pin=B4-16
+Added Pin To Net: NetName=VREF Pin=B4-18
+Added Pin To Net: NetName=VREF Pin=B4-19
+Added Pin To Net: NetName=VREF Pin=B4-21
+Added Pin To Net: NetName=VREF Pin=B4-23
+Added Pin To Net: NetName=VREF Pin=B4-25
+Added Pin To Net: NetName=GND Pin=B4-27
+Added Pin To Net: NetName=GND Pin=B4-28
+Added Pin To Net: NetName=VREF Pin=B4-29
+Added Pin To Net: NetName=VREF Pin=B4-31
+Added Pin To Net: NetName=VREF Pin=B4-33
+Added Pin To Net: NetName=VREF Pin=B4-35
+Added Pin To Net: NetName=GND Pin=B4-37
+Added Pin To Net: NetName=SW_LE_N Pin=B4-38
+Added Pin To Net: NetName=VDD Pin=B4-40
+Added Pin To Net: NetName=GND Pin=B4-41
+Added Pin To Net: NetName=GND Pin=B4-42
+Added Pin To Net: NetName=SW_5V Pin=B4-43
+Added Pin To Net: NetName=SW_SET Pin=B4-46
+Added Pin To Net: NetName=SW_CLR Pin=B4-47
+Added Pin To Net: NetName=GND Pin=B4-48
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=SW_5V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VDD Pin=C13-2
+Added Pin To Net: NetName=VREF Pin=C16-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetC4_1 Pin=U4-6
+Added Pin To Net: NetName=NetC4_1 Pin=U4-7
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=R3-2
+Added Pin To Net: NetName=NetC16_1 Pin=R4-1
+Added Pin To Net: NetName=NetC16_1 Pin=U3-3
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R6-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U3-1
+Added Pin To Net: NetName=NetR5_2 Pin=U3-4
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=OPA_5V Pin=R3-1
+Added Pin To Net: NetName=OPA_5V Pin=U3-5
+Added Pin To Net: NetName=OPA_5V Pin=U4-5
+Added Net: Name=OPA_5V
+Added Pin To Net: NetName=OPA_GND Pin=R4-2
+Added Pin To Net: NetName=OPA_GND Pin=U3-2
+Added Pin To Net: NetName=OPA_GND Pin=U4-3
+Added Pin To Net: NetName=OPA_GND Pin=U4-4
+Added Net: Name=OPA_GND
+Added Pin To Net: NetName=REF_IN Pin=B4-1
+Added Pin To Net: NetName=REF_IN Pin=B4-3
+Added Pin To Net: NetName=REF_IN Pin=B4-5
+Added Pin To Net: NetName=REF_IN Pin=B4-7
+Added Pin To Net: NetName=REF_IN Pin=B4-11
+Added Pin To Net: NetName=REF_IN Pin=B4-13
+Added Pin To Net: NetName=REF_IN Pin=B4-15
+Added Pin To Net: NetName=REF_IN Pin=B4-17
+Added Pin To Net: NetName=REF_IN Pin=B4-20
+Added Pin To Net: NetName=REF_IN Pin=B4-22
+Added Pin To Net: NetName=REF_IN Pin=B4-24
+Added Pin To Net: NetName=REF_IN Pin=B4-26
+Added Pin To Net: NetName=REF_IN Pin=B4-30
+Added Pin To Net: NetName=REF_IN Pin=B4-32
+Added Pin To Net: NetName=REF_IN Pin=B4-34
+Added Pin To Net: NetName=REF_IN Pin=B4-36
+Added Pin To Net: NetName=REF_IN Pin=J2-1
+Added Net: Name=REF_IN
+Added Member To Class: ClassName=Input Protection Member=Component C16 25MF105KA13216
+Added Member To Class: ClassName=Input Protection Member=Component R3 RC0805FR-0710ML
+Added Member To Class: ClassName=Input Protection Member=Component R4 RC0805FR-0710ML
+Added Member To Class: ClassName=Input Protection Member=Component R5 MCU08050C1000FP500
+Added Member To Class: ClassName=Input Protection Member=Component R6 RC0805FR-0710ML
+Added Member To Class: ClassName=Input Protection Member=Component U3 OPA365AQDBVRQ1
+Added Member To Class: ClassName=Power Supply Member=Component U4 WRME-FIMM_1769205132

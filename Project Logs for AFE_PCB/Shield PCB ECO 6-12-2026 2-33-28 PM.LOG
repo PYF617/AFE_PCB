@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP7
+Added Pin To Net: NetName=GND Pin=B1-49
+Added Pin To Net: NetName=GND Pin=B4-49
+Added Member To Class: ClassName=AFE Shield Member=Component TP6 5277
+Added Member To Class: ClassName=AFE Shield Member=Component TP7 5277

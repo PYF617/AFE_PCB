@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CH8 Pin=B5-25
+Removed Pin From Net: NetName=IN8 Pin=B5-26
+Removed Pin From Net: NetName=CH7 Pin=B5-29
+Removed Pin From Net: NetName=IN7 Pin=B5-30
+Removed Pin From Net: NetName=CH6 Pin=B5-31
+Removed Pin From Net: NetName=IN6 Pin=B5-32
+Removed Pin From Net: NetName=CH5 Pin=B5-33
+Removed Pin From Net: NetName=IN5 Pin=B5-34
+Added Pin To Net: NetName=CH5 Pin=B5-25
+Added Pin To Net: NetName=IN5 Pin=B5-26
+Added Pin To Net: NetName=CH6 Pin=B5-29
+Added Pin To Net: NetName=IN6 Pin=B5-30
+Added Pin To Net: NetName=CH7 Pin=B5-31
+Added Pin To Net: NetName=IN7 Pin=B5-32
+Added Pin To Net: NetName=CH8 Pin=B5-33
+Added Pin To Net: NetName=IN8 Pin=B5-34

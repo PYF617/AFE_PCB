@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=AFE Chip.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AFE Chip.SchDoc|FileName=AFE Shield.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AFE Chip.SchDoc|FileName=Input Protection.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AFE Chip.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=4

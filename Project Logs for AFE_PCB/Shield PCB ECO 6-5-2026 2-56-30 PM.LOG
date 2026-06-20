@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=NetB4_3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=NetB4_6 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Change Component DesignItemId : Designator=CN1 Old DesignItemId=CMP-066-000000-1 New DesignItemId=CMP-066-000000-6
+Change Component DesignItemId : Designator=CN2 Old DesignItemId=CMP-066-000000-1 New DesignItemId=CMP-066-000000-6
+Change Component Footprint: Designator=C14 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=CN1 Old Footprint=SAMTEC_SSW-135-02-G-D New Footprint=SAMTEC_SSW-135-02-G-D
+Change Component Footprint: Designator=CN2 Old Footprint=SAMTEC_SSW-135-02-G-D New Footprint=SAMTEC_SSW-135-02-G-D
+Change Component Comment : Designator=C14 Old Comment=CL21A105KBCLNNC New Comment=C0805C104K6RACTU
+Change Component Comment : Designator=C15 Old Comment=CL21A105KBCLNNC New Comment=C0805C104K6RACTU
+Change Component Description : Designator=CN1 Old Description= New Description=70-pin connector
+Change Component Description : Designator=CN2 Old Description= New Description=70-pin connector
+Change Managed Component Library Link : Designator=CN1 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=1987E573-2163-4E51-8D7B-E23C56DA9B33 New ItemGUID=1987E573-2163-4E51-8D7B-E23C56DA9B33 Old RevisionGUID=01FB1F89-70EE-4918-BB32-E6997F7FCF8F New RevisionGUID=35a13677-3f9d-471c-95e4-cfdeda50f78d
+Change Managed Component Library Link : Designator=CN2 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=1987E573-2163-4E51-8D7B-E23C56DA9B33 New ItemGUID=1987E573-2163-4E51-8D7B-E23C56DA9B33 Old RevisionGUID=01FB1F89-70EE-4918-BB32-E6997F7FCF8F New RevisionGUID=35a13677-3f9d-471c-95e4-cfdeda50f78d
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=6ADB4F9A-38DB-4F33-AF3D-7D825D45412D New ItemGUID=1AD4DED3-0B77-4FE7-8E91-903D0CD529C8 Old RevisionGUID=CEC52D3A-9027-485A-9223-13774327B529 New RevisionGUID=88807A54-885B-4182-A4B5-10E991819EAF
+Change Managed Component Library Link : Designator=C15 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=6ADB4F9A-38DB-4F33-AF3D-7D825D45412D New ItemGUID=1AD4DED3-0B77-4FE7-8E91-903D0CD529C8 Old RevisionGUID=CEC52D3A-9027-485A-9223-13774327B529 New RevisionGUID=88807A54-885B-4182-A4B5-10E991819EAF
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC2012X95N"; UniqueID = "\CWBHARFI" ("\CWBHARFI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "C0805C104K6RACTU.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC2012X95N"; UniqueID = "\MBKNGUIX" ("\MBKNGUIX")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0805C104K6RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C104K6RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "C0805C104K6RACTU.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN1" ("CN1"); Footprint = "SAMTEC_SSW-135-02-G-D"; UniqueID = "\NCBVETCP" ("\NCBVETCP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "SSW-135-02-G-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SSW-135-02-G-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "SSW-135-02-G-D.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN2" ("CN2"); Footprint = "SAMTEC_SSW-135-02-G-D"; UniqueID = "\ORSVUAHY" ("\ORSVUAHY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "SSW-135-02-G-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SSW-135-02-G-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "SSW-135-02-G-D.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetB4_3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetB4_6 Pin=C15-2

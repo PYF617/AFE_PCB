@@ -1,0 +1,72 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CMP-019-000000-1 New DesignItemId=CMP-019-000000-2
+Change Component DesignItemId : Designator=J2 Old DesignItemId=CMP-019-000000-1 New DesignItemId=CMP-019-000000-2
+Change Component DesignItemId : Designator=J3 Old DesignItemId=CMP-019-000000-1 New DesignItemId=CMP-019-000000-2
+Change Component Footprint: Designator=J1 Old Footprint=TE_2466267-1 New Footprint=TE_2466267-1
+Change Component Footprint: Designator=J2 Old Footprint=TE_2466267-1 New Footprint=TE_2466267-1
+Change Component Footprint: Designator=J3 Old Footprint=TE_2466267-1 New Footprint=TE_2466267-1
+Change Component Description : Designator=J1 Old Description= New Description=BNC connector
+Change Component Description : Designator=J2 Old Description= New Description=BNC connector
+Change Component Description : Designator=J3 Old Description= New Description=BNC connector
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=48DD80A9-1078-4FFB-85D1-42FC9D6703BB New ItemGUID=48DD80A9-1078-4FFB-85D1-42FC9D6703BB Old RevisionGUID=4E130940-106E-4E99-B270-8632A1C837DD New RevisionGUID=0f7eaccf-0ae2-49c4-81d3-59edecd3b3c9
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=48DD80A9-1078-4FFB-85D1-42FC9D6703BB New ItemGUID=48DD80A9-1078-4FFB-85D1-42FC9D6703BB Old RevisionGUID=4E130940-106E-4E99-B270-8632A1C837DD New RevisionGUID=0f7eaccf-0ae2-49c4-81d3-59edecd3b3c9
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=48DD80A9-1078-4FFB-85D1-42FC9D6703BB New ItemGUID=48DD80A9-1078-4FFB-85D1-42FC9D6703BB Old RevisionGUID=4E130940-106E-4E99-B270-8632A1C837DD New RevisionGUID=0f7eaccf-0ae2-49c4-81d3-59edecd3b3c9
+Change component parameters: Designator = "J1" ("J3"); Footprint = "TE_2466267-1"; UniqueID = "\LUJJYCZX" ("\LUJJYCZX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "2466267-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2466267-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "2466267-1.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J4"); Footprint = "TE_2466267-1"; UniqueID = "\OOCJMONS" ("\OOCJMONS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "2466267-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2466267-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "2466267-1.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J2"); Footprint = "TE_2466267-1"; UniqueID = "\FNHNJPTM" ("\FNHNJPTM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "2466267-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2466267-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "2466267-1.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"

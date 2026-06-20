@@ -1,0 +1,40 @@
+Change Component DesignItemId : Designator=B2 Old DesignItemId=CMP-047-000000-1 New DesignItemId=CMP-047-000000-2
+Change Component DesignItemId : Designator=B5 Old DesignItemId=CMP-047-000000-1 New DesignItemId=CMP-047-000000-2
+Change Component Footprint: Designator=B2 Old Footprint=SOIC127P594X363-8N New Footprint=SOIC127P594X363-8N
+Change Component Footprint: Designator=B5 Old Footprint=SOIC127P594X363-8N New Footprint=SOIC127P594X363-8N
+Change Managed Component Library Link : Designator=B2 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=D2431418-4205-4643-9676-DD8A7D2E8F02 New ItemGUID=D2431418-4205-4643-9676-DD8A7D2E8F02 Old RevisionGUID=560212F1-AA94-4C04-AE15-AC6CA6799FAE New RevisionGUID=1c30004f-68ed-44a3-a63b-83b2882b7090
+Change Managed Component Library Link : Designator=B5 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=D2431418-4205-4643-9676-DD8A7D2E8F02 New ItemGUID=D2431418-4205-4643-9676-DD8A7D2E8F02 Old RevisionGUID=560212F1-AA94-4C04-AE15-AC6CA6799FAE New RevisionGUID=1c30004f-68ed-44a3-a63b-83b2882b7090
+Change component parameters: Designator = "B2" ("B2"); Footprint = "SOIC127P594X363-8N"; UniqueID = "\NSYOKBPG" ("\NSYOKBPG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fod050l/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FOD053L-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "3.63mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FOD050L?qs=ReZUMDdiXnRPjBKyX9bkKw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "FOD050L.SchLib"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B5" ("B5"); Footprint = "SOIC127P594X363-8N"; UniqueID = "\ASVMMJIB" ("\ASVMMJIB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/fod050l/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FOD053L-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "3.63mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "512-FOD050L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FOD050L?qs=ReZUMDdiXnRPjBKyX9bkKw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "FOD050L.SchLib"; VariantName = "[No Variations]"

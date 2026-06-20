@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=B3 Old DesignItemId=CMP-011-00014-1 New DesignItemId=CMP-011-00014-2
+Change Component Footprint: Designator=B3 Old Footprint=SOP50P310X90-8N New Footprint=SOP50P310X90-8N
+Change Managed Component Library Link : Designator=B3 Old VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 New VaultGUID=FE3ADE47-2E77-42F1-9C9A-A3DDE25E1510 Old ItemGUID=3B990EBA-8524-41FE-AD4A-718C09A26FBF New ItemGUID=3B990EBA-8524-41FE-AD4A-718C09A26FBF Old RevisionGUID=26BB3534-F868-45A3-8A60-CA3D0BC9C240 New RevisionGUID=1de7ec84-ca55-46af-9872-4408e6a25510
+Change component parameters: Designator = "B3" ("B3"); Footprint = "SOP50P310X90-8N"; UniqueID = "\UKDUYJLN" ("\UKDUYJLN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/ts5a3153"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "TS5A3153DCUR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS5A3153DCUR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TS5A3153DCUR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TS5A3153DCUR?qs=BBezV1N05%2FshGMJPJGj1vg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "TS5A3153DCUR.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
