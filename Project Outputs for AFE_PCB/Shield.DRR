@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Shield.PcbDoc   6/20/2026  6:26:30 PM
+NCDrill File Report For: Shield.PcbDoc   6/24/2026  2:53:51 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII Plated RoundHoles File : Shield-Plated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             1602      PTH        113.38inch (2879.96mm)
+T1      12mil (0.3mm)                                             Round             637       PTH        72.04inch (1829.79mm)
 T2      20mil (0.508mm)                                           Round             22        PTH        6.57inch (166.97mm)
 T3      28mil (0.711mm)                                           Round             29        PTH        9.86inch (250.47mm)
 T4      41mil (1.04mm)                                            Round             140       PTH        26.17inch (664.74mm)
@@ -15,6 +15,6 @@ T5      49mil (1.25mm)                                            Round         
 T6      63mil (1.6mm)                                             Round             7         PTH        5.00inch (126.96mm)
 T7      86mil (2.19mm)                                            Round             12        PTH        6.49inch (164.89mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1815
+Totals                                                                              850
 
 Total Processing Time (hh:mm:ss) : 00:00:00
